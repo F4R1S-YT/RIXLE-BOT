@@ -30,8 +30,8 @@ global.APIKeys = { // APIKey nya disini
 
 userbot = {
 Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
- owner:  [ "6281261324817", "6281916259786", "6281325994066", "62857420881846","628812904283","6282328303332", "62822980698995", "436504463151666", "62823283033323" ],
-  MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
+ owner:  [ "6281261324817", "6281916259786", "6281325994066", "62857420881846","628812904283","6282328303332", "62822980698995", "436504463151666", "60176849904" ],
+  MONGO_URI: "mongodb+srv://f4bot:f4bot@cluster0.mxhvj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
    api: "Maaf terjadi kesalahan", 
@@ -64,8 +64,8 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    eror: "Sepertinya Eror",
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU',
-   packname: "RIXLE-BOT-OFFICIAL",
-   author: '@_fearTeam',
+   packname: "Follow TikTok:",
+   author: '@sp3f4r1s',
     setting: {
     admin: "only admin",
     group: "only group",
